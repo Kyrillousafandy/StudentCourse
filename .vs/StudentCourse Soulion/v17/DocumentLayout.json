@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iRepair\\Desktop\\C#\\StudentCourse Soulion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1DC0AB-1A90-4641-9AB0-47893EF19D13}|StudentCourse\\StudentCourse.csproj|c:\\users\\irepair\\desktop\\c#\\studentcourse soulion\\studentcourse\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1DC0AB-1A90-4641-9AB0-47893EF19D13}|StudentCourse\\StudentCourse.csproj|solutionrelative:studentcourse\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\iRepair\\Desktop\\C#\\StudentCourse Soulion\\StudentCourse\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentCourse\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\iRepair\\Desktop\\C#\\StudentCourse Soulion\\StudentCourse\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "StudentCourse\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:27:38.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
